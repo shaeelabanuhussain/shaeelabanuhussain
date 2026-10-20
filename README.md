@@ -69,6 +69,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YouTube-Opening%20soon%3A%20AI%20and%20analytics%2C%20explained%20simply-f5a524?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube opening soon: AI and analytics, explained simply" />
-  <img src="https://img.shields.io/badge/Instagram-Opening%20soon%3A%20behind%20the%20scenes%20of%20my%20work-f5a524?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram opening soon: behind the scenes of my work" />
+  <img src="https://img.shields.io/badge/YouTube-Opening%20soon%3A%20AI%20and%20analytics%2C%20explained%20simply-f5a524?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube opening soon: " />
+  <img src="https://img.shields.io/badge/Instagram-Opening%20soon%3A%20behind%20the%20scenes%20of%20my%20work-f5a524?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram opening soon: " />
 </p>
