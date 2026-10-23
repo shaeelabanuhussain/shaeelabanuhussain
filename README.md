@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=7" width="100%" alt="Shaeela Banu Hussain. Intrapreneur, data and decision analyst, AI automation builder. Colombo, Sri Lanka." />
+  <img src="./assets/hero.svg?v=8" width="100%" alt="Shaeela Banu Hussain. Intrapreneur, data and decision analyst, AI automation builder. Colombo, Sri Lanka." />
 </p>
 
 <p align="center">
-  <img src="./assets/skills.svg?v=7" width="100%" alt="Skills I built: KPI tracking, funnel analysis, audience segmentation, pricing strategy, process design, AI agents and skills, multi-model workflows, prompt design, MCP, report automation, CI/CD, SQL, Excel, Power BI, Python, Pandas, Next.js, Notion, curriculum design, university partnerships, stakeholder coordination, public speaking" />
+  <img src="./assets/skills.svg?v=8" width="100%" alt="Skills I built: KPI tracking, funnel analysis, audience segmentation, pricing strategy, process design, AI agents and skills, multi-model workflows, prompt design, MCP, report automation, CI/CD, SQL, Excel, Power BI, Python, Pandas, Next.js, Notion, curriculum design, university partnerships, stakeholder coordination, public speaking" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -38,27 +38,34 @@
 </p>
 
 
-## 📈 GitHub activity
+## 🚀 Featured projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [flood-ml](https://github.com/shaeelabanuhussain/flood-ml) | Kaggle Playground S4E5 solution that predicts flood probability with a deep learning model | Python, Google Colab |
+| [jora-job-scraper-prototype](https://github.com/shaeelabanuhussain/jora-job-scraper-prototype) | Collects public job listings into a clean CSV, with pagination and duplicate detection | Python, Selenium |
+| [australian-postcode-state-mapper](https://github.com/shaeelabanuhussain/australian-postcode-state-mapper) | Maps Australian postcodes to states so datasets are ready for analysis | Python |
+| [claude-skills](https://github.com/shaeelabanuhussain/claude-skills) | My workspace for building and testing AI skills | Claude |
+| [career2026](https://github.com/shaeelabanuhussain/career2026) | Website for an industry readiness program for graduates | Next.js, React, Tailwind CSS |
+| [spin-wheel](https://github.com/shaeelabanuhussain/spin-wheel) | Table-topics spinner for online Toastmasters sessions | JavaScript |
+
+## 📈 Top languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaeelabanuhussain&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0b1220&title_color=2dd4bf&text_color=93a3bb&card_width=460" alt="Top languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaeelabanuhussain/shaeelabanuhussain/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaeelabanuhussain/shaeelabanuhussain/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/shaeelabanuhussain/shaeelabanuhussain/output/github-snake.svg" />
-  </picture>
+  <img src="./assets/snake.svg?v=8" width="100%" alt="Always building: a decorative snake eating my SBH monogram" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=7" width="100%" alt="Next on my roadmap: SQL for analysis, dashboards, Python for analysis, experiments and statistics, AI-powered analytics" />
+  <img src="./assets/id-dashboard.svg?v=8" width="100%" alt="Next on my roadmap: SQL for analysis, dashboards, Python for analysis, experiments and statistics, AI-powered analytics" />
 </p>
 
 
 <p align="center">
-  <img src="./assets/connect.svg?v=7" width="100%" alt="Let's connect: portfolio, LinkedIn, phone. YouTube and Instagram opening soon." />
+  <img src="./assets/connect.svg?v=8" width="100%" alt="Let's connect: portfolio, LinkedIn, phone. YouTube and Instagram opening soon." />
 </p>
 
 <p align="center">
@@ -69,6 +76,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YouTube-Opening%20soon%3A%20AI%20and%20analytics%2C%20explained%20simply-f5a524?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube opening soon: " />
-  <img src="https://img.shields.io/badge/Instagram-Opening%20soon%3A%20behind%20the%20scenes%20of%20my%20work-f5a524?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram opening soon: " />
+  <img src="https://img.shields.io/badge/YouTube-Opening%20soon%3A%20AI%20and%20analytics%2C%20explained%20simply-f5a524?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube opening soon: AI and analytics, explained simply" />
+  <img src="https://img.shields.io/badge/Instagram-Opening%20soon%3A%20behind%20the%20scenes%20of%20my%20work-f5a524?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram opening soon: behind the scenes of my work" />
 </p>
