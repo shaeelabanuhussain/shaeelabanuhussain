@@ -38,17 +38,6 @@
 </p>
 
 
-## 🚀 Featured projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| [flood-ml](https://github.com/shaeelabanuhussain/flood-ml) | Kaggle Playground S4E5 solution that predicts flood probability with a deep learning model | Python, Google Colab |
-| [jora-job-scraper-prototype](https://github.com/shaeelabanuhussain/jora-job-scraper-prototype) | Collects public job listings into a clean CSV, with pagination and duplicate detection | Python, Selenium |
-| [australian-postcode-state-mapper](https://github.com/shaeelabanuhussain/australian-postcode-state-mapper) | Maps Australian postcodes to states so datasets are ready for analysis | Python |
-| [claude-skills](https://github.com/shaeelabanuhussain/claude-skills) | My workspace for building and testing AI skills | Claude |
-| [career2026](https://github.com/shaeelabanuhussain/career2026) | Website for an industry readiness program for graduates | Next.js, React, Tailwind CSS |
-| [spin-wheel](https://github.com/shaeelabanuhussain/spin-wheel) | Table-topics spinner for online Toastmasters sessions | JavaScript |
-
 ## 📈 Top languages
 
 <p align="center">
